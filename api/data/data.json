@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "infos": {
+      "name": "Rocket League",
+      "description": "Rocket League est un jeu de football dans lequel le joueur contrôle une voiture. Pour marquer un but, il faut pousser une balle géante afin qu'elle atterrisse dans les cages adverses. Sur le terrain, il est possible de récupérer de l'énergie afin de déclencher un turbo et d'aller plus vite.",
+      "image": "/rocketleague.jpg",
+      "VideoId": "njqN4pDsMdA?si=LjWmLImx_yC-qJge",
+      "website": "https://www.rocketleague.com/fr-fr/",
+      "price": 19.99,
+      "categories": ["Sport, ", "Jeux de course"],
+      "platform": ["PC, ", "PS4, ", "PS5, ", "Xbox One, ", "Xbox Series X/S, ", "Nintendo Switch"],
+      "pegi": 3,
+      "editors": [
+        "Psyonix", "Epic Games"
+      ]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author": {
+          "id": 1,
+          "name": "Nathan",
+          "avatar": ""
+        },
+        "text": "Ce jeu semble compliqué !"
+      },
+      {
+        "id": 2,
+        "author": {
+          "id": 2,
+          "name": "Pierre",
+          "avatar": "https://i.pravatar.cc/300?u=2"
+        },
+        "text": "Ca va, c'est pas mal."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "infos": {
+      "name": "Minecraft",
+      "description": "Minecraft est un jeu de type bac à sable, c'est à dire qu'il intègre des “outils” pour façonner son propre univers de jeu. Ainsi , le joueur peut à peu près bâtir tout ce qu'il veut. Il existe différents modes de jeu dans lesquels la partie aventure et la partie créative sont plus ou moins développées.",
+      "image": "/minecraft.jpg",
+      "VideoId": "Rla3FUlxJdE?si=xEEv12Tb8M-Zpen5",
+      "website": "https://www.rocketleague.com/fr-fr/",
+      "price": 19.99,
+      "category": "Sport",
+      "platforms": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+      "pegi": 3,
+      "editors": [
+        "Psyonix", "Epic Games"
+      ]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author": {
+          "id": 1,
+          "name": "Jean",
+          "avatar": "https://i.pravatar.cc/300?u=1"
+        },
+        "text": "J'adore ce jeu !"
+      },
+      {
+        "id": 2,
+        "author": {
+          "id": 2,
+          "name": "Pierre",
+          "avatar": "https://i.pravatar.cc/300?u=2"
+        },
+        "text": "Ca va, c'est pas mal."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "infos": {
+      "name": "Warzone",
+      "description": "Call of Duty: Warzone est un jeu vidéo de battle royale mettant en scène jusqu'à 150 joueurs par partie (et jusqu'à 200 joueurs dans certains modes). Le jeu propose plusieurs armes, certaines sont issues du jeu Modern Warfare, d'autres de la série Black Ops.",
+      "image": "/Warzone.jpg",
+      "VideoId": "njqN4pDsMdA?si=LjWmLImx_yC-qJge",
+      "website": "https://www.rocketleague.com/fr-fr/",
+      "price": 19.99,
+      "categories": ["Sport, ", "Jeux de course"],
+      "platform": ["PC, ", "PS4, ", "PS5, ", "Xbox One, ", "Xbox Series X/S, ", "Nintendo Switch"],
+      "pegi": 3,
+      "editors": [
+        "Psyonix", "Epic Games"
+      ]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author": {
+          "id": 1,
+          "name": "Nathan",
+          "avatar": ""
+        },
+        "text": "Ce jeu semble compliqué !"
+      },
+      {
+        "id": 2,
+        "author": {
+          "id": 2,
+          "name": "Pierre",
+          "avatar": "https://i.pravatar.cc/300?u=2"
+        },
+        "text": "Ca va, c'est pas mal."
+      }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+.viewGame{
+    background-color: #dde3ee;
+    width: 400px;
+    border-radius: 20px;
+    border-style: solid;
+    margin: 20px;
+    text-align: center;
+    display: block;
+}
+.displayGames{
+    display: flex;
+    margin: auto;
+    position: absolute;
+}
+.titleViewGame{
+    text-align: center;
+}
+.commentViewGame{
+    padding: 5px 5px 20px 5px;
+}
+.imgFunOnly{
+    width: 150px;
+    position: relative;
+    margin-left: 620px;
+}
+.titleFunOnly{
+    position: absolute;
+    margin-left: 40%;
+    top: 3%;
+    margin-top: 0px;
+    color: white;
+    font-size: 80px;
+}
+.bannerFunOnly{
+    background-color: #252554;
+}
+.DescriptionInfos{
+    display: flex;
+}
+.descriptionTitleGamePage{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.descriptionGamePage{
+    margin-left: 100px;
+    font-size: 20px;
+    width: 1000px;
+}
+.categoryTitleGamePage{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.categoryGamePage{
+    margin-left:150px;
+    font-size: 20px;
+}
+.plateformTitleGamePage{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.plateformGamePage{
+    margin-left:150px;
+    font-size: 20px;
+}
+.Video{
+    margin-left: 400px;
+    margin-top: 100px;
+    width: 1074px;
+    height: 606px;
+    display: block;
+}
+.critiques{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 45px 0px 20px 403px;
+}
+.postComment{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 89px 0px 20px 1402px;
+    background-color: lightblue;
+    width: 70px;
+    padding: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.textareaComment{
+    margin: 11px 2px -76px 402px;
+    border-radius: 10px;
+    width: 1064px;
+    height: 88px;
+    font-size: 20px;
+}
